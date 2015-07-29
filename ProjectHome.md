@@ -1,0 +1,4 @@
+MetaboID, a Matlab-based user interface designed to aid in the one-dimensional spectral assignment process. The tools of MetaboID were built to guide resonance assignment in order of increasing confidence, starting from cursory compound searches based on chemical shift positions to analysis of authentic spike experiments. Together, these tools streamline the often repetitive task of spectral assignment. The overarching goal of the integrated toolbox of MetaboID is to centralize the one dimensional spectral assignment process, from providing access to large chemical shift libraries to providing a straightforward, intuitive means of spectral comparison.
+
+MetaboID Download link:
+https://docs.google.com/file/d/0BznKS0dFvE5uRjZjNUpSazExM3c/edit?usp=sharing
